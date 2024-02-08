@@ -23,19 +23,20 @@ they will earn many treasures, such as stronger and rarer weapons and gold.
 * Many mechanics and features exist that allow users to augment and customize their character and items. Users can also trade items with others.
 * Has a party system where users can team up and fight against bosses together.
 
+### How well did this project perform?
+The project had its peak from June 2023 to July 2023. Viewing the analytics provided by the Roblox Creator Dashboard, Floor Conquerors has achieved:
+* The top 1000 most engaging experiences on the Roblox platform during the month of July 2023
+* The top 1000 most trending experiences on the Roblox platform during the month of June 2023
+* 8,272 daily active users, the number of unique players who joined the game at least once in the day.
+* 104,372 monthly active users, the number of unique players who joined the game at least once in the month.
+* 821,224 impressions, the number of unique users who have seen the project.
+
+### Project Features
 From a technical viewpoint, the project features...
 * A handful of algorithms for different features of the game, designed to maintain user retention and overall enjoyability. Many algorithms were planned, experimented, and applied to determine the most effective algorithms.
 * A database that stores every single user's data, with a "migration" feature that allows for easy data recovery whenever a user is suspected to data corruption by fetching one of their older saved data.
 * A system that is modular, designed in an object-oriented manner. This allows for many skills/abilities to be created very quickly and easy on the developing end while being very unique from another.
 * User Interface with a minimalistic and modern theme.
-
-### How well did this project perform?
-The project had its peak from June 2023 to July 2023. Viewing the analytics provided by the Roblox Creator Dashboard, Floor Conquerors has achieved:
-* The top 1000 most engaging experiences during the month of July 2023
-* The top 1000 most trending experiences during the month of June 2023
-* 8,272 daily active users, the number of unique players who joined the game at least once in the day.
-* 104,372 monthly active users, the number of unique players who joined the game at least once in the month.
-* 821,224 impressions, the number of unique users who have seen the project.
 
 
 
