@@ -31,6 +31,8 @@ From a technical viewpoint, the project features...
 
 ### How well did this project perform?
 The project had its peak from June 2023 to July 2023. Viewing the analytics provided by the Roblox Creator Dashboard, Floor Conquerors has achieved:
+* The top 1000 most engaging experiences during the month of July 2023
+* The top 1000 most trending experiences during the month of June 2023
 * 8,272 daily active users, the number of unique players who joined the game at least once in the day.
 * 104,372 monthly active users, the number of unique players who joined the game at least once in the month.
 * 821,224 impressions, the number of unique users who have seen the project.
